@@ -33,7 +33,7 @@ The application is built using **HTML5**, **CSS3**, and **Vanilla JavaScript**, 
 ## 📂 Project Structure
 
 ```text
-ApexPlanet-Task5/
+Chapter & Verse – Book Store  
 │
 ├── screenshots/
 │   ├── home.png
@@ -50,11 +50,11 @@ ApexPlanet-Task5/
 
 ### 🏠 Home Page
 
-![Home Page](Task5_WebDevelopment/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### 🛒 Shopping Cart
 
-![Shopping Cart](Task5_WebDevelopment/screenshots/cart.png)
+![Shopping Cart](screenshots/cart.png)
 
 ---
 
@@ -89,7 +89,7 @@ Responsive layouts have been tested for:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/syed7396/ApexPlanet-Task5.git
+git clone https://github.com/syed7396/Chapter-Verse-Book-Store.git
 ```
 
 2. Open the project folder.
