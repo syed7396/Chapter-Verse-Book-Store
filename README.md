@@ -100,11 +100,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🎯 Internship Task
-
-This project was developed as the **Task 5 Capstone Project** for the **ApexPlanet Web Development Internship**.
-
-It demonstrates:
+## 🎯 Project Demonstrates:
 
 - Responsive Web Design
 - Dynamic User Interface
