@@ -1,6 +1,6 @@
 # 📚 Chapter & Verse — Online Book Store
 
-A responsive online bookstore developed as the **Task 5 Capstone Project** during the **ApexPlanet Web Development Internship**.
+A responsive online bookstore developed as the **Capstone Project** during the **ApexPlanet Web Development Internship**.
 
 The application is built using **HTML5**, **CSS3**, and **Vanilla JavaScript**, demonstrating responsive web design, DOM manipulation, dynamic user interactions, and front-end development best practices.
 
